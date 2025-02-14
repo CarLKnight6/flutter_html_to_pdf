@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace "com.example.flutter_html_to_pdf" 
+    namespace "com.wittymanager.owenscube"
     compileSdkVersion 30
 
     compileOptions {
